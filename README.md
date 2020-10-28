@@ -26,7 +26,13 @@ pip install -r requirements.txt
 
 4. Run initial migrations
 ```
+python manage.py makemigrations
 python manage.py migrate
+```
+
+5. Run tests
+```
+python manage.py jenkins
 ```
 
 5. Start server
