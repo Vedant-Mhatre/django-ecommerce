@@ -1,0 +1,8 @@
+ecommerce/lib/python3.8/site-packages/django/contrib/messages/__init__.py:1:1 'from django.contrib.messages.api import *' used; unable to detect undefined names
+ecommerce/lib/python3.8/site-packages/django/contrib/messages/__init__.py:1:1 'django.contrib.messages.api.*' imported but unused
+ecommerce/lib/python3.8/site-packages/django/contrib/messages/__init__.py:2:1 'from django.contrib.messages.constants import *' used; unable to detect undefined names
+ecommerce/lib/python3.8/site-packages/django/contrib/messages/__init__.py:2:1 'django.contrib.messages.constants.*' imported but unused
+webportal/admin.py:1:1 'django.contrib.admin' imported but unused
+webportal/views.py:1:1 'django.shortcuts.render' imported but unused
+webportal/tests.py:1:1 'django.test.TestCase' imported but unused
+webportal/models.py:1:1 'django.db.models' imported but unused
