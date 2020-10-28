@@ -1,4 +1,6 @@
 # django-ecommerce
+## Sample website for testing CI/CD pipeline using jenkins and docker
+
 Django Ecommerce Website
 
 1. Clone repository using HTTPS and **cd** into the project
