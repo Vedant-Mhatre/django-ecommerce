@@ -35,7 +35,7 @@ python manage.py migrate
 python manage.py jenkins
 ```
 
-5. Start server
+6. Start server
 ```
 python manage.py runserver
 ```
