@@ -29,7 +29,7 @@ python manage.py migrate
 
 5. Start server
 ```
-python manage.py migrate
+python manage.py runserver
 ```
 
 Website will be available at [localhost:8000](http://localhost:8000/)
