@@ -1,0 +1,9 @@
+asgiref==3.2.10
+coverage==4.5.4
+Django==3.1.2
+django-filter==2.4.0
+-e git://github.com/kmmbvnr/django-jenkins.git@f673c8ecded24eb56aeaef8d1c0caeb82208b595#egg=django_jenkins
+pep8==1.7.1
+pyflakes==2.2.0
+pytz==2020.1
+sqlparse==0.4.1
